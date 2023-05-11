@@ -18,4 +18,3 @@ Main topics covered in the bootcamp:
 - Linux Security
 
 
-### Notion timetable
